@@ -1,0 +1,1 @@
+Simple example of a Netty based application built with [HTTP4K](https://www.http4k.org) and Kotlin being compiled to a native executable via [GraalVM](https://www.graalvm.org/)
